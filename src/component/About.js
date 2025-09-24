@@ -1,7 +1,7 @@
 import { Component } from "react";
 import AboutUser from "./AboutUser"
 import TestComponent from "./TestComponent";
-import UserContext from "../utils/userContext";
+import UserContext from '../utils/UserContext';
 
 
 class About extends Component {
